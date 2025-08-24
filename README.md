@@ -8,9 +8,14 @@ Showcase my ability to approach problems systematically and improve over time. B
 
 🧩 Problems Solved
 
-  121. Best Time to Buy and Sell Stock
-  424. Longest Repeating Character Replacement
-  3. Longest Substring Without Repeating Characters
-  76. Minimum Window Substring
-  567. Permutation in String
-  239. Sliding Window Maximum
+121.Best Time to Buy and Sell Stock
+       
+424.Longest Repeating Character Replacement
+       
+3.Longest Substring Without Repeating Characters
+     
+76.Minimum Window Substring
+      
+567.Permutation in String
+       
+239.Sliding Window Maximum
